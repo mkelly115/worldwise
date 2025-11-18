@@ -68,6 +68,10 @@ input:focus {
   border-radius: 5px;
 }
 
+.emoji {
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+
 /*
 "importCSSModule": {
     "prefix": "csm",
