@@ -31,7 +31,6 @@ function City() {
       <p>
         Position:{lat}, {lng}
       </p>
-      
     </>
   );
 
