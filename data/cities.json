@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "1a51",
+      "cityName": "Cortes de Arenoso",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-12-03T20:32:44.038Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "40.16719224954053",
+        "lng": "-0.5227121646950584"
+      }
+    },
+    {
+      "id": "5a0d",
+      "cityName": "Round Mountain",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2025-12-03T20:39:27.772Z",
+      "notes": "HELLO\n",
+      "position": {
+        "lat": "38.94124279314535",
+        "lng": "-117.1998159543314"
+      }
+    },
+    {
+      "id": "3ee9",
+      "cityName": "Goldfield",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2025-12-03T20:42:59.130Z",
+      "notes": "",
+      "position": {
+        "lat": "35.350869531920715",
+        "lng": "-111.23427780656752"
+      }
+    },
+    {
+      "id": "0445",
+      "cityName": "Dilia",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2025-12-03T20:45:08.703Z",
+      "notes": "",
+      "position": {
+        "lat": "35.100895575590684",
+        "lng": "-105.2540447391676"
+      }
     }
   ]
 }
