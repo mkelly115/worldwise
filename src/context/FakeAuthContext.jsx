@@ -29,7 +29,7 @@ const FAKE_USER = {
 
 function AuthProvider({ children }) {
   const [{ user, isAuthenticated }, dispatch] = useReducer(
-    useReducer,
+    reducer,
     initialState
   );
 
@@ -53,6 +53,7 @@ function useAuth() {
   const context = useContext(AuthContext);
   if (context === undefined)
     throw new Error("AuthContext was use outside AuthProvider");
+  return context;
 }
 
 export {AuthProvider, useAuth}
