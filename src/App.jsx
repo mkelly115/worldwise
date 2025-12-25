@@ -13,7 +13,7 @@ import { CitiesProvider } from "./context/CitiesContext";
 import { AuthProvider } from "./context/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
 
-// Must implement fakeAuth todayS
+// FakeAuth Implimented 
 
 export default function App() {
   return (
