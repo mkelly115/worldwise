@@ -9,6 +9,8 @@ const initialState = {
   currentCity: {},
 };
 
+// Need to expand reducer function for one more case here 
+
 function reducer(state, action) {
   switch (action.type) {
     case "loading":
