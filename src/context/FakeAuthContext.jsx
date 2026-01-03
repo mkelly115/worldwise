@@ -1,5 +1,7 @@
 import { createContext, useContext, useReducer } from "react";
 
+// WIPE fake auth and impliment google auth for ease of testing for potential jobs
+
 const AuthContext = createContext();
 
 const initialState = {
