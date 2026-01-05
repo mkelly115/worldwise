@@ -2,6 +2,8 @@ import { createContext, useContext, useReducer } from "react";
 
 // WIPE fake auth and impliment google auth for ease of testing for potential jobs
 
+// Potentially a full client side login instead of google? (avoid needing a backend for this project - already have one)
+
 const AuthContext = createContext();
 
 const initialState = {
